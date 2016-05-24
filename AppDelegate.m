@@ -20,7 +20,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
 	[DBManager sharedManager];
-	[GMSServices provideAPIKey:@"AIzaSyA9dLrFGYlPaB72lZZ44v7Hfk-j94X9thk"];
+	[GMSServices provideAPIKey:@""];
 	return YES;
 }
 

@@ -10,10 +10,10 @@
 #import <TDOAuth/TDOAuth.h>
 
 
-static NSString * const kConsumerKey = @"yeQ9LGUnNtehmrueZrwx4Q";
-static NSString * const kConsumerSecret = @"nK41IV7pA6DVm9ifxOG9LeAGSTg";
-static NSString * const kToken = @"AFacuEhKq6mVvrOekUKsXWtEKhK0PKoi";
-static NSString * const kTokenSecret = @"y0HGfR9grW1doQs9VbabTkQPXVY";
+static NSString * const kConsumerKey = @"";
+static NSString * const kConsumerSecret = @"";
+static NSString * const kToken = @"";
+static NSString * const kTokenSecret = @"";
 
 
 @implementation NSURLRequest (OAuth)
